@@ -20,3 +20,9 @@ A lead chooses a suitable time, receives a confirmation message, and gets a remi
 ## Project status
 
 This is a portfolio demo built with sample data. It has not been connected to a live calendar or messaging service.
+
+## Workflow preview
+
+Here is a quick look at how the appointment reminder workflow is connected.
+
+![Appointment reminder workflow](appointment-reminder-workflow.png)
